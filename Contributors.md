@@ -54,6 +54,7 @@ Akshit Agarwal
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Sachi Shah](https://github.com/sachishah08)
 -[Krishna Soundararajan](https://github.com/krishna2793)
+-[Ivan Bettannier](https://github.com/ivanbettannier)
 -[S.Varun](https://github.com/VarunS20)
 -[Maruti Nandan](https://github.com/Maruti-Nandan)
 -[Andrew Paul] (https://https://github.com/helloandrewpaul)
